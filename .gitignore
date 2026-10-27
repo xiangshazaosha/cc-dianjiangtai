@@ -1,0 +1,13 @@
+# Local drafts and intermediate files; never publish these.
+.work/
+# Local credentials and machine-specific configuration.
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+# Editor / OS leftovers.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

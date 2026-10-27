@@ -1,0 +1,13 @@
+CC 点将台 / cc-dianjiangtai
+Copyright (c) 2026 笑爷 / xiangshazaosha and respective contributors.
+Project: https://github.com/xiangshazaosha/cc-dianjiangtai
+
+This repository is released under the Zero-Clause BSD license (SPDX: 0BSD).
+Its orchestration approach originates from the same maintainer's Dianjiangtai
+Codex-to-Claude-Code project and has been adapted to native Claude Code
+subagents. No MCP runtime, SDK, CLI binary, model credentials or private
+conversation logs are included. This release does not change the licensing
+of the original project or any external product/service.
+
+This notice is informational; 0BSD does not impose attribution or notice-
+retention conditions on downstream copies.
